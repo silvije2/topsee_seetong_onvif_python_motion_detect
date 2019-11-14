@@ -6,6 +6,8 @@ With this script you can subscribe to IPC motion detect events and then run what
 
 Edit credentials in the begining of the script. On some IPC models and (buggy) firmwares, script works only if you leave default factory username and password configured.
 
+Script also shows various IPC information like model, firmware version, serial number and so on...
+
 ## Prerequisites
 
 You need to install python3-pip, onvif-py3 and suds-passworddigest-py3
