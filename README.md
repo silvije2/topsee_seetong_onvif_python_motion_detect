@@ -8,6 +8,9 @@ Edit credentials in the begining of the script. On some IPC models and (buggy) f
 
 Script also shows various IPC information like model, firmware version, serial number and so on...
 
+***WARNING*** If using Topsee/Seetong PC client or mobile apps, keep in mind that communication is unencrypted, and your usernames, passwords and e-mail address are visible on the network
+
+
 ## Prerequisites
 
 You need to install python3-pip, onvif-py3 and suds-passworddigest-py3
