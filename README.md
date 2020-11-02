@@ -1,5 +1,12 @@
 # topsee_seetong_onvif_python_motion_detect
 
+***WARNING***
+Please do NOT expose any IP Camera on public IP address! Most of them are vulnerable to unauthorized public access through onvif!
+To confirm this use ONVIF Device Manager
+
+	https://sourceforge.net/projects/onvifdm/
+
+
 Tpsee Topsee Seetong Tianshitong SkyVision 天视通 IPC ONVIF python motion detect script
 
 With this script you can subscribe to IPC motion detect events and then run whatever you want when event fires.
