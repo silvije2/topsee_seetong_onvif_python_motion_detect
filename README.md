@@ -20,7 +20,7 @@ Tpsee Topsee Seetong Tianshitong SkyVision 天视通 IPC ONVIF python motion det
 
 With this script you can subscribe to IPC motion detect events and then run whatever you want when event fires.
 
-Edit credentials in the begining of the script. On some IPC models and (buggy) firmwares, script works only if you leave default factory username and password configured.
+Edit credentials in the begining of the script. On some IPC models and (buggy) firmwares, script works only if you leave default factory username and password configured. On some models script works fine with older firmwares and stop working after firmware upgrade. Seems Onvif support is not well maintained. Contacting Topsee poor "Technical after services" people with this problem didn't help at all.
 
 Script also shows various IPC information like model, firmware version, serial number and so on...
 
